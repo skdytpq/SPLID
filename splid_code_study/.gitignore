@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# 전체 데이터셋과 실행 결과는 올리지 않음 (예시는 data_example/, output_example/ 에 있음)
+dataset/
+runs/

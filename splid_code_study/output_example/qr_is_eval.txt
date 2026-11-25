@@ -1,0 +1,12 @@
+객체 1기
+Precision: 1.00
+Recall: 1.00
+F2: 1.000
+RMSE: 0.0000
+TP: 7 FP: 0 FN: 0
+node 종류별 TP|FN:
+  SS: 2|0
+  ID: 2|0
+  IK: 2|0
+  AD: 1|0
+시점만 채점 (Node·Type 무시): P: 1.00 R: 1.00 F2: 1.000 | TP: 7 FP: 0 FN: 0
